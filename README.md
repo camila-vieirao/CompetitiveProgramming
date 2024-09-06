@@ -23,8 +23,8 @@ Every Wednesday, I will share new exercises and solutions that I’ve worked on 
 ### Week 3 - Exercises
 | Exercise Name  | Description | Solution Link |
 |----------------|-------------|---------------|
-| Humidity Levels in a Greenhouse | [Humidity Levels in a Greenhouse](link to the `.md` file describing the problem) | [humidity_solution.py](link to the code) |
-| Plate Balancer | [Plate Balancer](link to the `.md` file describing the problem) | [balancer_solution.py](link to the code) |
+| Humidity Levels in a Greenhouse | [Humidity Levels in a Greenhouse](/exercises/week-3/exercise1.md) | [exercise1.cpp](/exercises/week-3/exercise1.cpp) |
+| Plate Balancer | [Plate Balancer](/exercises/week-3/exercise2.md) | [exercise2.cpp](/exercises/week-3/exercise2.cpp) |
 
 ---
 

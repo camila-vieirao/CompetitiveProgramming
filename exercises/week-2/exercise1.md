@@ -23,9 +23,9 @@ If there are multiple ways of choosing two subsets with the same sum, any choice
 ## Limits
 
 - No two numbers in the set will be equal.
-- \( 1 \leq T \leq 10 \)  
-- \( N \) is exactly equal to 20.  
-- Each number in the set will be a positive integer less than \( 10^5 \).
+- $1 \leq T \leq 10$
+- $N$ is exactly equal to 20.
+- Each number in $S$ will be a positive integer less than $10^{5}$
 
 ## Sample Input 1
 
