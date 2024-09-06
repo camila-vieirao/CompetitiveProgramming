@@ -1,6 +1,6 @@
 # Competitive Programming
 
-Welcome to my Competitive Programming repository! This repository is a personal project to **keep track of my evolution in competitive programming**. Here, you'll find solutions to problems from various platforms, organized by topics, difficulty levels, and algorithms. It's a work in progress that will evolve as I continue to practice and improve my skills.
+Welcome to my Competitive Programming repository! This repository is a personal project to **keep track of my evolution in competitive programming**. It's a work in progress that will evolve as I continue to practice and improve my skills.
 
 ## Weekly Updates
 Every Wednesday, I will share new exercises and solutions that I’ve worked on throughout the week. Below, you’ll find a table tracking the progress of the exercises I've completed so far.
