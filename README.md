@@ -12,8 +12,8 @@ Every Wednesday, I will share new exercises and solutions that I’ve worked on 
 ### Week 1 - Exercises
 | Exercise Name                        | Description                                                                                       | Solution Link                                           |
 |--------------------------------------|---------------------------------------------------------------------------------------------------|---------------------------------------------------------|
-| Sum of Even Numbers After Query      | [Sum of Even Numbers After Query](link to the `.md` file describing the problem)                 | [sum_of_even_numbers_after_query.cpp](./Mathematics/sum_of_even_numbers_after_query.cpp) |
-| Find Pivot Index                     | [Find Pivot Index](link to the `.md` file describing the problem)                               | [find_pivot_index.cpp](./Arrays/find_pivot_index.cpp) |
+| Sum of Even Numbers After Query      | [Sum of Even Numbers After Query](/exercises/week-1/exercise1.md) | [exercise1.py](/exercises/week-1/exercise1.py) |
+| Find Pivot Index                     | [Find Pivot Index](/exercises/week-1/exercise2.md)                | [exercise2.py](/exercises/week-1/exercise2.py) |
 
 ### Week 2 - Exercises
 | Exercise Name                        | Description                                                                                       | Solution Link                                           |
