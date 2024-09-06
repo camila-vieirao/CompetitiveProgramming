@@ -10,21 +10,21 @@ Every Wednesday, I will share new exercises and solutions that I’ve worked on 
 ## Exercises
 
 ### Week 1 - Exercises
-| Exercise Name                        | Description                                                                                       | Solution Link                                           |
-|--------------------------------------|---------------------------------------------------------------------------------------------------|---------------------------------------------------------|
-| Sum of Even Numbers After Query      | [Sum of Even Numbers After Query](/exercises/week-1/exercise1.md) | [exercise1.py](/exercises/week-1/exercise1.py) |
-| Find Pivot Index                     | [Find Pivot Index](/exercises/week-1/exercise2.md)                | [exercise2.py](/exercises/week-1/exercise2.py) |
+| Exercise Name  | Description | Solution Link |
+|----------------|-------------|---------------|
+| Sum of Even Numbers After Query | [Sum of Even Numbers After Query](/exercises/week-1/exercise1.md) | [exercise1.py](/exercises/week-1/exercise1.py) |
+| Find Pivot Index | [Find Pivot Index](/exercises/week-1/exercise2.md) | [exercise2.py](/exercises/week-1/execise2.py) |
 
 ### Week 2 - Exercises
-| Exercise Name                        | Description                                                                                       | Solution Link                                           |
-|--------------------------------------|---------------------------------------------------------------------------------------------------|---------------------------------------------------------|
-| Equal Sums                           | [Equal Sums](link to the `.md` file describing the problem)                                     | [equal_sums.cpp](./SubsetSums/equal_sums.cpp)         |
+| Exercise Name  | Description | Solution Link |
+|----------------|-------------|---------------|
+| Equal Sums | [Equal Sums](/exercises/week-2/exercise1.md) | [exercise1.cpp](/exercises/week-2/exercise1.cpp) |
 
 ### Week 3 - Exercises
-| Exercise Name                        | Description                                                                                       | Solution Link                                           |
-|--------------------------------------|---------------------------------------------------------------------------------------------------|---------------------------------------------------------|
-| Humidity Levels in a Greenhouse      | [Humidity Levels in a Greenhouse](link to the `.md` file describing the problem)                 | [humidity_solution.py](link to the code)               |
-| Plate Balancer                       | [Plate Balancer](link to the `.md` file describing the problem)                                  | [balancer_solution.py](link to the code)               |
+| Exercise Name  | Description | Solution Link |
+|----------------|-------------|---------------|
+| Humidity Levels in a Greenhouse | [Humidity Levels in a Greenhouse](link to the `.md` file describing the problem) | [humidity_solution.py](link to the code) |
+| Plate Balancer | [Plate Balancer](link to the `.md` file describing the problem) | [balancer_solution.py](link to the code) |
 
 ---
 
